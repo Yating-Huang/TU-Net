@@ -23,7 +23,7 @@ in result folder,there are the logs and the line chart of metrics.such as:
 
 ### saved_predict folder:
 in this folder,there are the ouput predict of the saved model,such as:
-![image](https://github.com/Andy-zhujunwen/UNET-ZOO/blob/master/eye.png)
+![image](https://github.com/Yating-Huang/TU-Net/blob/main/saved_predict/TUNet/2/50/tongue/272.jpg)
 
 
 ### the datasets:
