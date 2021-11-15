@@ -2,7 +2,7 @@
 by [Yating Huang](https://Yating-Huang.github.io/), Zhihui Lai, Wenjing Wang
 ## Summary:
 ### Intoduction:
-  This repository is for our ICCPR paper ["TU-Net: A Precise Network for Tongue Segmentation"](https://dl.acm.org/doi/pdf/10.1145/3436369.3437428)
+  This repository is for our ICCPR2020 paper ["TU-Net: A Precise Network for Tongue Segmentation"](https://dl.acm.org/doi/pdf/10.1145/3436369.3437428)
   
   
 ### Framework:
@@ -22,7 +22,7 @@ The only thing you should do is enter the dataset.py and correct the path of the
 then run ~
 example:
 ```
-python main.py --action train&test --arch UNet --epoch 21 --batch_size 21 
+python main.py --action train&test --arch TUNet --epoch 2 --batch_size 2 
 ```
 ## RESULTS
 after train and test,3 folders will be created,they are "result","saved_model","saved_predict".
