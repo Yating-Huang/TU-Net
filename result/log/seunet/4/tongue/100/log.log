@@ -1,0 +1,64 @@
+2021-11-14 11:57:14,016:INFO:
+=======
+models:seunet,
+epoch:100,
+batch size:4
+dataset:tongue
+========
+2021-11-14 11:57:17,263:INFO:Epoch 0/99
+2021-11-14 11:57:20,827:INFO:1/1,train_loss:0.733
+2021-11-14 14:05:03,781:INFO:
+=======
+models:seunet,
+epoch:100,
+batch size:4
+dataset:tongue
+========
+2021-11-14 14:05:06,923:INFO:Epoch 0/99
+2021-11-14 14:05:10,454:INFO:1/1,train_loss:0.632
+2021-11-14 14:05:26,454:INFO:Miou=0.000000,aver_hd=18.381375,aver_dice=0.000000
+2021-11-14 14:05:26,454:INFO:epoch 0 loss:0.632
+2021-11-14 14:05:26,454:INFO:Epoch 1/99
+2021-11-14 14:05:27,295:INFO:1/1,train_loss:0.551
+2021-11-14 14:05:43,626:INFO:Miou=0.000000,aver_hd=18.381375,aver_dice=0.000000
+2021-11-14 14:05:43,626:INFO:epoch 1 loss:0.551
+2021-11-14 14:05:43,626:INFO:Epoch 2/99
+2021-11-14 14:05:44,473:INFO:1/1,train_loss:0.472
+2021-11-14 14:06:00,414:INFO:Miou=0.000000,aver_hd=18.381375,aver_dice=0.000000
+2021-11-14 14:06:00,414:INFO:epoch 2 loss:0.472
+2021-11-14 14:06:00,415:INFO:Epoch 3/99
+2021-11-14 14:06:06,421:INFO:
+=======
+models:seunet,
+epoch:100,
+batch size:4
+dataset:tongue
+========
+2021-11-14 14:06:09,518:INFO:Epoch 0/99
+2021-11-14 14:06:13,030:INFO:1/1,train_loss:0.693
+2021-11-14 14:06:32,058:INFO:Miou=0.251680,aver_hd=27.712813,aver_dice=0.400863
+2021-11-14 14:06:32,058:INFO:aver_iou:0.2516795970775463 > best_iou:0
+2021-11-14 14:06:32,058:INFO:===========>save best model!
+2021-11-14 14:06:33,225:INFO:epoch 0 loss:0.693
+2021-11-14 14:06:33,226:INFO:Epoch 1/99
+2021-11-14 14:06:34,115:INFO:1/1,train_loss:0.582
+2021-11-14 14:06:53,502:INFO:Miou=0.251680,aver_hd=27.712813,aver_dice=0.400863
+2021-11-14 14:06:53,502:INFO:epoch 1 loss:0.582
+2021-11-14 14:06:53,503:INFO:Epoch 2/99
+2021-11-14 14:06:54,348:INFO:1/1,train_loss:0.481
+2021-11-14 14:07:19,098:INFO:
+=======
+models:seunet,
+epoch:100,
+batch size:4
+dataset:tongue
+========
+2021-11-14 14:07:22,202:INFO:Epoch 0/99
+2021-11-14 14:08:24,280:INFO:
+=======
+models:seunet,
+epoch:100,
+batch size:4
+dataset:tongue
+========
+2021-11-14 14:08:27,386:INFO:Epoch 0/99
