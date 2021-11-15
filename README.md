@@ -19,7 +19,7 @@ After training,the saved model is in this folder.
 
 ### result folder:
 in result folder,there are the logs and the line chart of metrics.such as:
-![image](https://github.com/Andy-zhujunwen/UNET-ZOO/blob/master/linechart.png)
+![image](https://github.com/Yating-Huang/TU-Net/blob/main/result/plot/TUNet_2_tongue_20_iou%26dice.jpg)
 
 ### saved_predict folder:
 in this folder,there are the ouput predict of the saved model,such as:
