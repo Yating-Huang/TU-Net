@@ -40,7 +40,7 @@ in this folder,there are the ouput predict of the saved model,such as:
 
 
 ### the datasets:
-the Tongue dataset(dsb2018)
+the Tongue dataset
 link：https://github.com/BioHit/TongeImageDataset
 
 ## Citation:
@@ -80,3 +80,9 @@ location = {Xiamen, China},
 series = {ICCPR 2020}
 }
 ```
+## Acknowledgement
+Part of the code is revised from the [UNET-ZOO](https://github.com/Andy-zhujunwen/UNET-ZOO).
+
+## Note
+* The repository is being updated
+* Contact: Yating Huang (huangyating2019@email.szu.edu.cn)
