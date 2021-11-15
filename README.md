@@ -1,5 +1,8 @@
-# UNET-ZOO
-including unet,unet++,attention-unet,r2unet,cenet,segnet ,fcn.
+# TU-Net: A Precise Network for Tongue Segmentation
+by [Yating Huang](https://Yating-Huang.github.io/), Zhihui Lai, Wenjing Wang
+## Summary:
+### Intoduction:
+  This repository is for our ICCPR paper ["TU-Net: A Precise Network for Tongue Segmentation"](https://dl.acm.org/doi/pdf/10.1145/3436369.3437428)
 
 # ENVIRONMENT
 Ubuntu 16.04+pycharm+python3.6+pytorch1.7.1  
