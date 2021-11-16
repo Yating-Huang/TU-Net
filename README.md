@@ -24,7 +24,7 @@ example:
 ```
 python main.py --action train&test --arch TUNet --epoch 2 --batch_size 2 
 ```
-## RESULTS
+## Results
 after train and test,3 folders will be created,they are "result","saved_model","saved_predict".
 
 ### saved_model folder:
