@@ -17,7 +17,7 @@ Clone the repository:
 git clone https://github.com/Yating-Huang/TU-Net.git
 cd TU-Net
 ```
-## HOW TO RUN:
+## How to run:
 The only thing you should do is enter the dataset.py and correct the path of the datasets.
 then run ~
 example:
